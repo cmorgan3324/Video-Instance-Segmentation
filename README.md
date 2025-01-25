@@ -38,4 +38,4 @@ This project implements **video instance segmentation** using **YOLOv8**, allowi
 - The trained YOLOv8 model can perform **real-time video instance segmentation**, detecting and tracking multiple objects simultaneously.  
 - The model can be **exported to ONNX** for optimized inference and deployment.  
 
-For further enhanceme
+For further enhancements, consider **fine-tuning hyperparameters, improving dataset quality, and deploying the model via FastAPI**.
